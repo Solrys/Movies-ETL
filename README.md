@@ -1,13 +1,19 @@
 # Movies-ETL
+## Background
 Creating an Algorithm To Predict Successful Streaming Content 
 
 ETL Extract transform and load
-A core concept to unsure the data is consistent and maintains its integrity
+A core concept to insure the data is consistent and maintains its integrity
 Data stores more efficiency. Using ETL to create data pipelines and transform the data so that we can analyze. 
 
-Extract
-Trnsform
-Load
+* Extract
+* Transform
+* Load
+
+## Sources
+Wikipedia
+Kaggle
+Movielens
 
 I gathered data from both Wikipedia and Kaggle, combined them, and saved them into a SQL database. To do this I followed the ETL process: 
 1)Extracting the Wikipedia and Kaggle data from their respective files. 
@@ -16,3 +22,10 @@ I gathered data from both Wikipedia and Kaggle, combined them, and saved them in
 
 (Raw data exists in multiple places and needs to be cleaned and structured before it can be analyzed. ETL breaks this problem into three steps, or phases: Extract, Transform, and Load.)
 
+## Objective
+The objective of this project is to create a comprehensive dataset with movie information and ratings for the Amazon sponsored hackathon. I will extract movie data from publicly available sources, transform it into a concise and readable dataset, and load the data into a SQL database.
+
+
+## Results
+
+### Final Movie Dataset
