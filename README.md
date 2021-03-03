@@ -36,7 +36,7 @@ The objective of this project is to create a comprehensive dataset with movie in
 ![final](https://github.com/Solrys/Movies-ETL/blob/main/resources/movies_with_ratings_df.png)
 
 ![final](https://github.com/Solrys/Movies-ETL/blob/main/resources/Screen%20Shot%202021-03-02%20at%203.25.52%20PM.png)
-![final]
+![final](https://github.com/Solrys/Movies-ETL/blob/main/resources/Screen%20Shot%202021-03-02%20at%203.24.46%20PM.png)
 
 ### Summary
 The final dataset contains 6,052 movies with 26,024,289 ratings. With these new results of the hackathon Amazing Prime Video will be able to make deciscions about upcoming movie rights to purchase for their streaming platform.
