@@ -33,3 +33,6 @@ The objective of this project is to create a comprehensive dataset with movie in
 
 ### Final Ratings Dataset
 ![final](https://github.com/Solrys/Movies-ETL/blob/main/resources/movies_with_ratings_df.png)
+
+![final](https://github.com/Solrys/Movies-ETL/blob/main/resources/Screen%20Shot%202021-03-02%20at%203.25.52%20PM.png)
+
