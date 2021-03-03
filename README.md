@@ -29,6 +29,7 @@ The objective of this project is to create a comprehensive dataset with movie in
 ## Results
 
 ### Final Movie Dataset
+![final](https://github.com/Solrys/Movies-ETL/blob/main/resources/movies_df.png)
 
 
 ### Final Ratings Dataset
